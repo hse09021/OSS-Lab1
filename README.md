@@ -30,7 +30,7 @@
 
 ## 본론
 ### 시스템 개요
-![image](https://user-images.githubusercontent.com/51695816/138585088-083f2f33-d50c-4ebf-812a-86a3754b45b9.png){: width="100%" height="100%"}
+![image](https://user-images.githubusercontent.com/51695816/138585331-2130b85f-8864-48c2-9d1c-6ce8e1b6d221.png)
 
 ### 필요한 기술 요소
 본 장치를 구현하기 위해선 화재 및 유해가스를 인식할 수 있는 각종 센서와 에어커튼을 생성해줄 팬, 하드웨어를 제어할 MCU, 화재에서도 작동하기 위해 열에 강한 소재가 필요합니다. 또한, 시연장치 구현을 위해 3D 모델링 및 3D 프린팅 기술을 활용할 계획입니다.
@@ -43,3 +43,4 @@
 * MCU를 이용해 센서 검출부, 전원 구동부, 외부 연결부를 제어 장치 구현
 * 소방서를 가정한 외부 출력부에 연동하여 실시간 신고 구현
 ```
+![image](https://user-images.githubusercontent.com/51695816/138585338-a5deefde-d400-4c74-855e-23c40ce2d38f.png)
